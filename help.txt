@@ -3,6 +3,7 @@ this is a file showing all the helpful tips for this project
 <<<<<<< HEAD
 one tip is to always check over everything you are doing.
 
+second tip is to listen to others for help if needed.
 =======
 one tip is to always check over everything you are doing.
 >>>>>>> problem-branch
