@@ -1,5 +1,10 @@
 this is a file showing all the helpful tips for this project
 
-one tip is to always check over everything you are doing.
+<<<<<<< HEAD
+one tip is to always check over everything you are 
+doing.
 
 
+=======
+one tip is to always check over everything you are. 
+>>>>>>> problem-branch
